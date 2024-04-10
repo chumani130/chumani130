@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chumani Madikizela</h1>
 <h3 align="center">A passionate Front-End developer from Cape Town</h3>
 
-- 🔭 I’m currently working on **my-portfolio-project**
+- 🔭 I’m currently working on** task management application**
 
 - 🌱 I’m currently learning **Angular framework**
 
